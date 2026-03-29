@@ -1,0 +1,6 @@
+/js
+*.js
+.vscode/
+/node_modules/
+/node_modules/**
+/SGA
